@@ -1,0 +1,9 @@
+   0 pwd
+   1 echo
+   2 echo "Hello" 
+   3 echo -e `#!/bin/bash\n touch /var/Sultanova.txt\n date > /var/Sultanova.txt\n cat/etc/group | tail -3 | sed s/user/zari/g`
+   4 echo -e `#!/bin/bash\n touch /var/Sultanova.txt\n date > /var/Sultanova.txt\n cat/etc/group | tail -3 | sed s/user/zari/g` >> /var.zari´ > myscript.sh
+   5 ls
+   6 cat myscript.sh
+   7 history 
+   8 history > history.txt
